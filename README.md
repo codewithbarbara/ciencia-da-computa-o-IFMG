@@ -24,28 +24,28 @@ Coleção de links organizados por matéria/unidade/aula.
 - https://www.youtube.com/watch?v=OOmtQ_dRN4U
 
 ### Aula 2 — Representação de Dados
-- https://www.youtube.com/watch?v=ppCUb9Mnn4I&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=IUPECKg7ll0&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=W4_pp7Ev0_g&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=gBsNWWscIcg&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=ppCUb9Mnn4I
+- https://www.youtube.com/watch?v=IUPECKg7ll0
+- https://www.youtube.com/watch?v=W4_pp7Ev0_g
+- https://www.youtube.com/watch?v=gBsNWWscIcg
 
 ### Aula 3 — Representação de Dados II
-- https://www.youtube.com/watch?v=VQ3ehumE024&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=g_RYhFAlsP8&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=zjEM5aglJew&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=86oWYQ-TZKs&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=VQ3ehumE024
+- https://www.youtube.com/watch?v=g_RYhFAlsP8
+- https://www.youtube.com/watch?v=zjEM5aglJew
+- https://www.youtube.com/watch?v=86oWYQ-TZKs
 
 ### Aula 4 — Introdução à Álgebra Booleana
-- https://www.youtube.com/watch?v=wKI0vSnhO5c&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=Mbu_xeD_QyE&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=L_ugzhIussY&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=RNOxvPkMh4Q&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=wKI0vSnhO5c
+- https://www.youtube.com/watch?v=Mbu_xeD_QyE
+- https://www.youtube.com/watch?v=L_ugzhIussY
+- https://www.youtube.com/watch?v=RNOxvPkMh4Q
 
 ### Aula 5 — PROVA 1 (revisão geral do conteúdo)
-- https://www.youtube.com/watch?v=bGkVzHAbdyA&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=KNCS8OwiEmE&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=IbUD1Xfx6gI&utm_source=chatgpt.com
-- https://www.youtube.com/watch?v=uFNZaj1eeug&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=bGkVzHAbdyA
+- https://www.youtube.com/watch?v=KNCS8OwiEmE
+- https://www.youtube.com/watch?v=IbUD1Xfx6gI
+- https://www.youtube.com/watch?v=uFNZaj1eeug
 
 ---
 
@@ -56,38 +56,38 @@ Coleção de links organizados por matéria/unidade/aula.
 
 ### Unidade 1 — Introdução à Computação
 **Conceito de computador**
-- https://www.youtube.com/watch?v=gYbf1NmGv_E&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=gYbf1NmGv_E
 
 **Estrutura básica de um sistema computacional**
-- https://www.youtube.com/watch?v=mCnNNGlB1W8&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=mCnNNGlB1W8
 
 **Componentes funcionais: entrada, processamento, armazenamento e saída**
-- https://www.youtube.com/watch?v=CgqpWUYa-P0&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=CgqpWUYa-P0
 
 ### Unidade 2 — Hardware e Software
 **Conceito de Hardware**
-- https://www.youtube.com/watch?v=4o_7dsFm_uU&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=4o_7dsFm_uU
 
 **CPU (Unidade Central de Processamento)**
-- https://www.youtube.com/watch?v=9QPPTFrTUPU&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=9QPPTFrTUPU
 
 **Memória (RAM, ROM, armazenamento secundário)**
-- https://www.youtube.com/watch?v=vHLd3lnptsU&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=vHLd3lnptsU
 
 **Dispositivos de entrada e saída**
-- https://www.youtube.com/watch?v=XKSMptLXPdo&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=XKSMptLXPdo
 
 **Tipos de computadores**
 - Computadores pessoais  
-  - https://www.youtube.com/watch?v=gYbf1NmGv_E&utm_source=chatgpt.com
+  - https://www.youtube.com/watch?v=gYbf1NmGv_E
 - Servidores  
-  - https://www.youtube.com/watch?v=eHOyN9rcBm4&utm_source=chatgpt.com
+  - https://www.youtube.com/watch?v=eHOyN9rcBm4
 - Dispositivos móveis  
-  - https://www.youtube.com/watch?v=kUXa0U0JiV4&utm_source=chatgpt.com
+  - https://www.youtube.com/watch?v=kUXa0U0JiV4
 - Supercomputadores  
-  - https://www.youtube.com/watch?v=dM7qn1c6FHw&utm_source=chatgpt.com
+  - https://www.youtube.com/watch?v=dM7qn1c6FHw
 - Sistemas embarcados  
-  - https://www.youtube.com/watch?v=P6Gtvru89_U&utm_source=chatgpt.com
+  - https://www.youtube.com/watch?v=P6Gtvru89_U
 
 ---
 
@@ -145,20 +145,20 @@ Coleção de links organizados por matéria/unidade/aula.
 #### ENTRAR EM CONTATO COM PROFESSOR PARA ENTREGA DE ATIVIDADES PASSADAS.
 
 **Apresentação da disciplina e revisão: equações do 1º grau e do 2º grau**
-- https://www.youtube.com/watch?v=tfm9kUrO5GI&utm_source=chatgpt.com
-
+- https://www.youtube.com/watch?v=tfm9kUrO5GI
+  
 **Geometria Analítica no plano cartesiano: Ponto médio e distância**
-- https://www.youtube.com/watch?v=MncVPPd5zWI&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=MncVPPd5zWI
 
 **Lugar geométrico e equações da circunferência**
-- https://www.youtube.com/watch?v=oOou4wUX3Hk&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=oOou4wUX3Hk
 
 **Equações da reta**
-- https://www.youtube.com/watch?v=QPWUwmYbU_U&utm_source=chatgpt.com
-
+- https://www.youtube.com/watch?v=QPWUwmYbU_U
+  
 **Seções cônicas: elipse**
-- https://www.youtube.com/watch?v=AQV5O0Go_YE&utm_source=chatgpt.com
-
+- https://www.youtube.com/watch?v=AQV5O0Go_YE
+  
 ---
 
 ## CTS
@@ -170,13 +170,13 @@ Coleção de links organizados por matéria/unidade/aula.
 - https://www.youtube.com/watch?v=Mi5Bx5quo5E&utm_source=chatgpt.com
 
 **Indutivismo: ciência como conhecimento derivado dos dados da experiência**
-- https://www.youtube.com/watch?v=98YuS9NuWZA&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=98YuS9NuWZA
 
 **Ciência: falsificacionismo e paradigmas**
-- https://www.youtube.com/watch?v=gkjJfCTEsa4&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=gkjJfCTEsa4
 
 **O problema da indução**
-- https://www.youtube.com/watch?v=np3OVCA2WB4&utm_source=chatgpt.com
+- https://www.youtube.com/watch?v=np3OVCA2WB4
 
 ---
 
